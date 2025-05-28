@@ -73,8 +73,6 @@ Higher Average G3: Female students performed slightly better on average
 
 Visuals confirm that more study time often leads to better grades
 
-
-
 🧰 Technologies Used
 Python 3.x
 
